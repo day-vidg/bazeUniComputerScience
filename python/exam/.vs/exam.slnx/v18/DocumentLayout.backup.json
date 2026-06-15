@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\Codes\\python\\exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22ED9009-E3C2-47D9-905F-EAE4F96488DD}|exam.pyproj|C:\\Users\\david\\Documents\\Codes\\python\\exam\\exam.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22ED9009-E3C2-47D9-905F-EAE4F96488DD}|exam.pyproj|solutionrelative:exam.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exam.py",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\Codes\\python\\exam\\exam.py",
+              "RelativeDocumentMoniker": "exam.py",
+              "ToolTip": "C:\\Users\\david\\Documents\\Codes\\python\\exam\\exam.py",
+              "RelativeToolTip": "exam.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T12:10:14.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

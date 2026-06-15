@@ -1,0 +1,37 @@
+﻿myList = ["groundnut", "cashew", "almond", "pistacio", "hazlenut"]
+print(myList[0], "and", myList[-1]) #question2
+
+myTuple = ("adidas", "nike", "adidas", "new balance", "skechers")
+print(myTuple.count("adidas")) #question5
+
+myDict1 = {
+    "teamName": "newcastle",
+    "leagueName": "premier league",
+    "homeStadium": "st james' park",
+    "homeKit": "black and white",
+    "headCoach": "eddie howe"
+    }
+myDict1["rival"] = "sunderland" 
+print(myDict1) #question1
+
+myDict2 = {
+    "teamName": "manchester united",
+    "leagueName": "premier league",
+    "homeStadium": "old trafford",
+    "homeKit": "red and white",
+    "headCoach": "michael carrick"
+    }
+
+myDict3 = {**myDict1, **myDict2}
+print(myDict3) #question4
+
+print(myDict1.pop()) #question5
+
+text1 = "the quick brown fox jumps over the lazy dog"
+text2 = "the lazy dog was not happy about it"
+text3 = "the dog was very lazy and did not want to move"
+text4 = "the dog was so lazy that it did not even want to get up"
+print(text1.isdigit()) #question3a
+print(text2.isalnum()) #question3b
+print(text3.istitle()) #question3c
+print(text4.replace("lazy", "active")) #question3d

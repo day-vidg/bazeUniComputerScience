@@ -1,0 +1,39 @@
+﻿myList = ["groundnut", "cashew", "almond", "pistacio", "hazlenut"]
+print(myList[0], "and", myList[-1]) #question2
+
+myTuple = ("adidas", "nike", "under armour", "new balance", "skechers")
+
+myDict1 = {
+    "teamName": "newcastle",
+    "leagueName": "premier league",
+    "homeStadium": "st james' park",
+    "homeKit": "black and white",
+    "headCoach": "eddie howe"
+    }
+myDict1["rival"] = "sunderland" 
+print(myDict1) #question1
+
+myDict2 = {
+    "teamName": "manchester united",
+    "leagueName": "premier league",
+    "homeStadium": "old trafford",
+    "homeKit": "red and white",
+    "headCoach": "michael carrick"
+    }
+print(myDict1 , myDict2) #question4
+# Merge dictionaries: values from myDict2 will override myDict1 for duplicate keys
+myDict3 = {**myDict1, **myDict2}
+print("merged (myDict2 overrides myDict1):", myDict3)  # question4 merged
+
+# Alternative: keep both dictionaries under separate keys so no data is lost
+combined = {"team1": myDict1, "team2": myDict2}
+print("combined (keeps both):", combined)
+
+text1 = "the quick brown fox jumps over the lazy dog"
+text2 = "the lazy dog was not happy about it"
+text3 = "the dog was very lazy and did not want to move"
+text4 = "the dog was so lazy that it did not even want to get up"
+print(text1.isdigit()) #question3a
+print(text2.isalnum()) #question3b
+print(text3.istitle()) #question3c
+print(text4.replace("lazy", "active")) #question3d

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\Codes\\python\\tuples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756F7BF2-1404-42F1-ACB7-D52D5B181237}|tuples.pyproj|C:\\Users\\david\\Documents\\Codes\\python\\tuples\\tuples.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{756F7BF2-1404-42F1-ACB7-D52D5B181237}|tuples.pyproj|solutionrelative:tuples.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tuples.py",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\Codes\\python\\tuples\\tuples.py",
+              "RelativeDocumentMoniker": "tuples.py",
+              "ToolTip": "C:\\Users\\david\\Documents\\Codes\\python\\tuples\\tuples.py",
+              "RelativeToolTip": "tuples.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T21:07:10.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

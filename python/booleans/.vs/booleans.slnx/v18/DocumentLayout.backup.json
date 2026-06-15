@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\Codes\\python\\booleans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3694738C-0DF6-4E1D-9362-B20C12EBFC64}|booleans.pyproj|C:\\Users\\david\\Documents\\Codes\\python\\booleans\\booleans.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3694738C-0DF6-4E1D-9362-B20C12EBFC64}|booleans.pyproj|solutionrelative:booleans.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "booleans.py",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\Codes\\python\\booleans\\booleans.py",
+              "RelativeDocumentMoniker": "booleans.py",
+              "ToolTip": "C:\\Users\\david\\Documents\\Codes\\python\\booleans\\booleans.py",
+              "RelativeToolTip": "booleans.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-14T18:23:15.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

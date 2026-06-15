@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\Codes\\python\\strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6570BBDD-2BD1-413C-BF2C-0239D1FC31A2}|strings.pyproj|C:\\Users\\david\\Documents\\Codes\\python\\strings\\strings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6570BBDD-2BD1-413C-BF2C-0239D1FC31A2}|strings.pyproj|solutionrelative:strings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strings.py",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\Codes\\python\\strings\\strings.py",
+              "RelativeDocumentMoniker": "strings.py",
+              "ToolTip": "C:\\Users\\david\\Documents\\Codes\\python\\strings\\strings.py",
+              "RelativeToolTip": "strings.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-14T18:22:01.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
