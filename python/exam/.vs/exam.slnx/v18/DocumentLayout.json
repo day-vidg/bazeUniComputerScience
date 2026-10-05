@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\Codes\\python\\exam\\",
+  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\Codes\\bazeUniComputerScience\\python\\exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22ED9009-E3C2-47D9-905F-EAE4F96488DD}|exam.pyproj|C:\\Users\\david\\Documents\\Codes\\python\\exam\\exam.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{22ED9009-E3C2-47D9-905F-EAE4F96488DD}|exam.pyproj|C:\\Users\\david\\Documents\\Codes\\bazeUniComputerScience\\python\\exam\\exam.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{22ED9009-E3C2-47D9-905F-EAE4F96488DD}|exam.pyproj|solutionrelative:exam.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "exam.py",
-              "DocumentMoniker": "C:\\Users\\david\\Documents\\Codes\\python\\exam\\exam.py",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\Codes\\bazeUniComputerScience\\python\\exam\\exam.py",
               "RelativeDocumentMoniker": "exam.py",
-              "ToolTip": "C:\\Users\\david\\Documents\\Codes\\python\\exam\\exam.py",
+              "ToolTip": "C:\\Users\\david\\Documents\\Codes\\bazeUniComputerScience\\python\\exam\\exam.py",
               "RelativeToolTip": "exam.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
